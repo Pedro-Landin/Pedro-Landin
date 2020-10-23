@@ -25,6 +25,6 @@ Sou apaixonado por ciência e tecnologia, e atualmente estou aperfeiçoando as m
 
 ## Interesses principais em:
 
-[![Desenvolvimento Mobile](https://img.shields.io/badge/Desenvolvimento%20Mobile-Green?style=flat-square&logo=Android&logoColor=White&link=https://github.com/Pedro-Landin/)](https://github.com/Pedro-Landin/)
+
 [![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/Pedro-Landin/)](https://github.com/Pedro-Landin/)
 ---
