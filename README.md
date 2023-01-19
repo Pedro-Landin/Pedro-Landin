@@ -1,30 +1,29 @@
-# :man_technologist: Pedro Landin 
+# Hello World! 👋
+### Eu sou o Pedro henrique Landin :man_technologist:
+- 💡 Apaixonado por Técnologia
+- 🚀 Formado em Análise e Desenvolvimento de Sistema
+- 🕵️ Interesse em Desenvolvimento Web
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pedro-Landin)](https://github.com/Pedro-Landin)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512997835591&text=Olá!)](https://api.whatsapp.com/send?phone=5512997835591&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquep35036@gmail.com)](mailto:henriquep35036@gmail.com)
+<div align="center">
+  <a href="https://github.com/Pedro-Landin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Landin&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Landin&layout=compact&langs_count=7&theme=react"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pedro-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Pedro-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pedro-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pedro-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pedro-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+          
+  </div>
+<br>
 
+  <a href = "mailto:henriquep35036@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-landin-25a4841b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://api.whatsapp.com/send?phone=5512997835591&text=Olá!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
-## Hello Word! 👋
+  ##
 
-Sou apaixonado por ciência e tecnologia, e atualmente estou aperfeiçoando as minhas habilidades no desenvolvimento de software.
-
-## Stacks:
-
-
-[![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/Pedro-Landin/)](https://github.com/Pedro-Landin/)
-[![Java](https://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/Pedro-Landin/)](https://github.com/Pedro-Landin/)
-
-
-
-
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=White&link=https://github.com/Pedro-Landin/)](https://github.com/Pedro-Landin/)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Pedro-Landin/)](https://github.com/Pedro-Landin/)
-
-## Interesses principais em:
-
-
-[![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/Pedro-Landin/)](https://github.com/Pedro-Landin/)
----
