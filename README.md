@@ -1,5 +1,4 @@
 # Hello World! 👋
-### Eu sou o Pedro henrique Landin :man_technologist:
 - 💡 Apaixonado por Técnologia
 - 🚀 Formado em Análise e Desenvolvimento de Sistema
 - 🕵️ Interesse em Desenvolvimento Web
